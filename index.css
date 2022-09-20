@@ -16,18 +16,18 @@
     background-color: rgb(174, 209, 209);
 }
 
-.bl{
+div .bl {
     border-left: 0;
 }
 
-.bt{
+div .bt {
     border-top: 0;
 }
 
-.br{
-    border-right:0;
+div .br {
+    border-right: 0;
 }
 
-.bb{
-    border-bottom:0;
+div .bb {
+    border-bottom: 0;
 }
