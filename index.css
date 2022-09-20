@@ -31,3 +31,10 @@ div .br {
 div .bb {
     border-bottom: 0;
 }
+
+
+.contain{
+width : 200px;
+    height:200px;
+    border : 2px solid red;
+}
